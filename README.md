@@ -15,5 +15,7 @@ Basic WordPress docker compose config file
 
 That is all. 1 min config for testing purposes 
 
+Note: check the file permissions if you upload to a remote host.
+
 Check here how to use locally docker without sudo:
 https://assen.xyz/running-docker-and-docker-compose-commands-without-sudo/
